@@ -3,7 +3,7 @@ package com.tcs;
 public class App {
 	
 public String Sample(){
-	return "Sample" ;
+	return "Samvple" ;
 }
 
 
