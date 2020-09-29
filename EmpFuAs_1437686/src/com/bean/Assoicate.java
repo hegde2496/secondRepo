@@ -13,4 +13,6 @@ public class Assoicate extends Employee {
 		this.noOfCompetencies = noOfCompetencies;
 	}
 
+	
+	
 }
